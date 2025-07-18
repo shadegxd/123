@@ -1,6 +1,6 @@
 # 🎓 University Data Science Projects
 
-This repository contains a collection of small data science projects completed throughout my studies at Central European University (B.A. in Data Science and Society). These projects were developed as part of coursework, hackathons, and independent learning exercises.
+This repository contains a collection of small data science projects completed throughout my studies at Central European University (B.Sc. in Data Science and Society). These projects were developed as part of coursework, hackathons, and independent learning exercises.
 
 They reflect my exploration of data analysis, machine learning, statistical modeling, and portfolio optimization — and serve as a snapshot of my technical growth during university.
 
